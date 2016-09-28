@@ -3,4 +3,5 @@ toc:
     section:
     - title: The Offline Cookbook
       path: /web/fundamentals/instant-and-offline/offline-cookbook/
-
+    - title: The service worker lifecycle
+      path: /web/fundamentals/instant-and-offline/service-worker-lifecycle/
